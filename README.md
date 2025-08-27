@@ -27,8 +27,12 @@ This project captures the legacy of nations like Brazil, Italy, Germany, Argenti
 
 # Dashboard
 
-📊 View on Tableau Public: View Dashboard on Tableau Public
+📊 View on Tableau Public: [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/gaurav.khadse6527/viz/FifaWorldcupTableauDashboard/Dashboard1)
+
 FIFA World Cup Tableau Dashboard
+
+- View on Tableau Public : [View Dasboard on Tableau Public](https://public.tableau.com/views/CricketMatchProject_17558542018060/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 <img width="1868" height="1049" alt="Fifa World Cup" src="https://github.com/user-attachments/assets/23526727-d381-4a9a-be05-ca480315ff73" />
 
