@@ -30,6 +30,8 @@ This project captures the legacy of nations like Brazil, Italy, Germany, Argenti
 📊 View on Tableau Public: View Dashboard on Tableau Public
 FIFA World Cup Tableau Dashboard
 
+<img width="1868" height="1049" alt="Fifa World Cup" src="https://github.com/user-attachments/assets/23526727-d381-4a9a-be05-ca480315ff73" />
+
 # Key Insights 🔎
 
 - Brazil leads with 5 World Cup titles and consistent semi-final appearances.
