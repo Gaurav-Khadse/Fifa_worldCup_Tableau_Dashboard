@@ -1,5 +1,6 @@
 # ⚽ FIFA World Cup Tableau Dashboard
 
+![Cup Image](https://github.com/user-attachments/assets/d6575342-64aa-441a-a483-15d51f2399ce)
 
 
 ## Introduction
